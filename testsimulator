@@ -3,4 +3,5 @@ Move fetch robot
 stop fetch robot
 ----------------
 Stretch fetch gripper
+Check for human presence
 Move gripper fingers
